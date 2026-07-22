@@ -18,10 +18,8 @@ Developed a Machine Learning classification model to predict whether a passenger
 - Accuracy Evaluation
 - Sample Prediction
 
-📁 Folder:
-```
-Task1_Titanic_Survival_Prediction
-```
+📄 **Project Details:**  
+➡️ **[Task 1 - Titanic Survival Prediction](./Task1_Titanic_Survival_Prediction/Task1_README.md)**
 
 ---
 
@@ -37,10 +35,8 @@ Built regression models to predict movie ratings using features such as genre, d
 - Model Comparison
 - Movie Rating Prediction
 
-📁 Folder:
-```
-Task2_Movie_Rating_Prediction
-```
+📄 **Project Details:**  
+➡️ **[Task 2 - Movie Rating Prediction](./Task2_Movie_Rating_Prediction/Task2_README.md)**
 
 ---
 
@@ -55,10 +51,8 @@ Developed a Machine Learning classification model to classify Iris flowers into 
 - Accuracy Evaluation
 - Sample Prediction
 
-📁 Folder:
-```
-Task3_Iris_Flower_Classification
-```
+📄 **Project Details:**  
+➡️ **[Task 3 - Iris Flower Classification](./Task3_Iris_Flower_Classification/Task3_README.md)**
 
 ---
 
@@ -76,7 +70,7 @@ Task3_Iris_Flower_Classification
 
 ## 📁 Repository Structure
 
-```
+```text
 CodSoft-Data-Science/
 │
 ├── Task1_Titanic_Survival_Prediction/

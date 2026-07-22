@@ -19,7 +19,7 @@ Developed a Machine Learning classification model to predict whether a passenger
 - Sample Prediction
 
 📄 **Project Details:**  
-➡️ **[Task 1 - Titanic Survival Prediction](./Task1_Titanic_Survival_Prediction/Task1_README.md)**
+➡️ [Task 1 - Titanic Survival Prediction](./Task1_README.md)
 
 ---
 
@@ -36,7 +36,7 @@ Built regression models to predict movie ratings using features such as genre, d
 - Movie Rating Prediction
 
 📄 **Project Details:**  
-➡️ **[Task 2 - Movie Rating Prediction](./Task2_Movie_Rating_Prediction/Task2_README.md)**
+➡️ [Task 2 - Movie Rating Prediction](./Task2_README.md)
 
 ---
 
@@ -52,7 +52,7 @@ Developed a Machine Learning classification model to classify Iris flowers into 
 - Sample Prediction
 
 📄 **Project Details:**  
-➡️ **[Task 3 - Iris Flower Classification](./Task3_Iris_Flower_Classification/Task3_README.md)**
+➡️ [Task 3 - Iris Flower Classification](./Task3_README.md)
 
 ---
 
@@ -71,24 +71,17 @@ Developed a Machine Learning classification model to classify Iris flowers into 
 ## 📁 Repository Structure
 
 ```text
-CodSoft-Data-Science/
-│
-├── Task1_Titanic_Survival_Prediction/
-│   ├── Titanic-Dataset.csv
-│   ├── Task1_Titanic_Survival_Prediction.ipynb
-│   └── Task1_README.md
-│
-├── Task2_Movie_Rating_Prediction/
-│   ├── IMDb Movies India.csv
-│   ├── Movie_Rating_Prediction.ipynb
-│   └── Task2_README.md
-│
-├── Task3_Iris_Flower_Classification/
-│   ├── IRIS.csv
-│   ├── Iris_Flower_Classification.ipynb
-│   └── Task3_README.md
-│
-└── README.md
+CODESOFT/
+│── README.md
+│── Titanic-Dataset.csv
+│── Task1_Titanic_Survival_Prediction.ipynb
+│── Task1_README.md
+│── IMDb Movies India.csv
+│── Movie_Rating_Prediction.ipynb
+│── Task2_README.md
+│── IRIS.csv
+│── Iris_Flower_Classification.ipynb
+│── Task3_README.md
 ```
 
 ---
@@ -122,4 +115,4 @@ CodSoft-Data-Science/
 
 ---
 
-⭐ If you found these projects helpful, feel free to explore the repository and share your feedback.
+⭐ If you found these projects helpful, feel free to explore the repository and give it a star!
